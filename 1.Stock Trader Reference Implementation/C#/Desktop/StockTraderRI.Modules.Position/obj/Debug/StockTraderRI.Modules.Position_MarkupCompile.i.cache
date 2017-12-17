@@ -1,0 +1,20 @@
+﻿StockTraderRI.Modules.Position
+
+
+library
+C#
+.cs
+C:\Users\ankitb\Downloads\Prism for WPF Reference Implementation Code Sample\C#\Desktop\StockTraderRI.Modules.Position\obj\Debug\
+StockTraderRI.Modules.Position
+none
+false
+DEBUG;TRACE
+
+6310935740
+
+41-1617765564
+732053687232
+Orders\OrderCommandsView.xaml;Orders\OrderCompositeView.xaml;Orders\OrderDetailsView.xaml;Orders\OrdersView.xaml;PositionSummary\PositionPieChartView.xaml;PositionSummary\PositionSummaryView.xaml;
+
+False
+

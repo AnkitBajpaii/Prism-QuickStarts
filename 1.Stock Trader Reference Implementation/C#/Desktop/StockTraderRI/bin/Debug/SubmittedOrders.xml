@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order OrderType="Market" Shares="99" StopLimitPrice="89" TickerSymbol="STOCK7" TimeInForce="EndOfDay" TransactionType="Buy" Date="11/26/2017 17:03:11" />
+  <Order OrderType="Market" Shares="22" StopLimitPrice="2" TickerSymbol="STOCK6" TimeInForce="EndOfDay" TransactionType="Buy" Date="12/17/2017 13:03:18" />
+  <Order OrderType="Market" Shares="22" StopLimitPrice="22" TickerSymbol="STOCK6" TimeInForce="EndOfDay" TransactionType="Buy" Date="12/17/2017 13:03:30" />
+</Orders>
